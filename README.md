@@ -392,7 +392,6 @@ your focus to scaling and innovating your business._
 - [AWS WAF workshop #2: Protect your application](https://waf.sa.engineering/)
 - [DevSecOps with Snyk](https://snyk.modernize.awsworkshop.io/)
 - [Getting Hands on with Amazon GuardDuty](https://hands-on-guardduty.awssecworkshops.com/)
-- [IAM deep dive](https://identity-round-robin.awssecworkshops.com/)
 - [R00tz Ctf On AWS- Security Capture The Flag](https://r00tz-ctf.awssecworkshops.com/)
 - [Scaling threat detection and response in AWS](https://scaling-threat-detection.awssecworkshops.com)
 - [Securing Serverless Workloads](https://github.com/aws-samples/aws-serverless-security-workshop/blob/master/README.md)
@@ -461,7 +460,7 @@ the foundation of your cloud IT environment._
 
 ## IAM
 
-- [Identity Round Robin](https://identity-round-robin.awssecworkshops.com/)
+- [IAM : Identity Round Robin](https://identity-round-robin.awssecworkshops.com/)
 
 ---
 
