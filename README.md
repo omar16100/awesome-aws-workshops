@@ -40,7 +40,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Connect](#connect)
   - [Containers](#containers)
   - [Databases](#databases)
-  - [DataLakes and Analytics](#datalakes-and-analytics)
+  - [Datalakes and Analytics](#datalakes-and-analytics)
   - [Development and CI/CD](#development-and-cicd)
   - [End User Computing](#end-user-computing)
   - [Enterprise Customers](#enterprise-customers)
@@ -58,6 +58,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Security](#security)
   - [Serverless](#serverless)
   - [Storage](#storage)
+  - [IAM](#iam)
+  - [Contributing](#contributing)
 
 ---
 
@@ -186,7 +188,6 @@ answers from all your data to all your users_
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
-
 
 ## Development and CI/CD
 
@@ -457,6 +458,10 @@ the foundation of your cloud IT environment._
 - [Online AWS Data Migrations](https://github.com/aws-samples/aws-online-data-migration-workshop)
 - [S3 Security Settings and Controls](https://github.com/aws-samples/amazon-s3-security-settings-and-controls)
 - [Transfer for SFTP Logical Directory demonstration](https://github.com/aws-samples/transfer-for-sftp-logical-directories)
+
+## IAM
+
+- [Identity Round Robin](https://identity-round-robin.awssecworkshops.com/)
 
 ---
 
